@@ -1,0 +1,3 @@
+[submodule "basics-materials"]
+	path = basics-materials
+	url = https://course-gitlab.tuni.fi/git-course/basics-materials.git
